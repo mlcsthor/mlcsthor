@@ -1,6 +1,6 @@
 ## 💻 Some Stats
 
-![Maxime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mlcsthor&show_icons=true&title_color=fff&icon_color=5f7fff&text_color=9f9f9f&bg_color=161616)
+![Maxime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mlcsthor&show_icons=true&title_color=fff&icon_color=5f7fff&text_color=9f9f9f&bg_color=161616&hide_border=true)
 
 ## 👋 Social Networks
 
